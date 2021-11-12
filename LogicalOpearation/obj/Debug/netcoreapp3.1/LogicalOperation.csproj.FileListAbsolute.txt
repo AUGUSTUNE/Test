@@ -1,0 +1,11 @@
+E:\Kavitha\LogicalOperation\obj\Debug\netcoreapp3.1\LogicalOperation.csprojAssemblyReference.cache
+E:\Kavitha\LogicalOperation\obj\Debug\netcoreapp3.1\LogicalOperation.AssemblyInfoInputs.cache
+E:\Kavitha\LogicalOperation\obj\Debug\netcoreapp3.1\LogicalOperation.AssemblyInfo.cs
+E:\Kavitha\LogicalOperation\bin\Debug\netcoreapp3.1\LogicalOperation.exe
+E:\Kavitha\LogicalOperation\bin\Debug\netcoreapp3.1\LogicalOperation.deps.json
+E:\Kavitha\LogicalOperation\bin\Debug\netcoreapp3.1\LogicalOperation.runtimeconfig.json
+E:\Kavitha\LogicalOperation\bin\Debug\netcoreapp3.1\LogicalOperation.runtimeconfig.dev.json
+E:\Kavitha\LogicalOperation\bin\Debug\netcoreapp3.1\LogicalOperation.dll
+E:\Kavitha\LogicalOperation\bin\Debug\netcoreapp3.1\LogicalOperation.pdb
+E:\Kavitha\LogicalOperation\obj\Debug\netcoreapp3.1\LogicalOperation.dll
+E:\Kavitha\LogicalOperation\obj\Debug\netcoreapp3.1\LogicalOperation.pdb
